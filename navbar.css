@@ -1,0 +1,22 @@
+.col{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.footer{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 1.35rem;
+}
+.footer .icons{
+    font-size: 40px;
+}
+.card-text{
+    text-align: justify;
+    padding: 20px;
+    word-spacing: 1px;
+}
+.card-title{
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+/* .container,.container-fluid,.container-xxl {
+    border:2px solid
+} */
+.row{
+    border:2px solid white;
+    background-color: blueviolet;
+}
+.col,.col-5{
+    color:white;
+    border: 2px solid gainsboro;
+}
